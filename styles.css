@@ -1,0 +1,139 @@
+.block-container {
+    padding-top: 0px;
+    padding-left: 30px;
+    padding-right: 10px;
+    padding-bottom: 0px;
+}
+
+.esravye2 {
+    font-size: 4rem;
+    text-align: center;
+    align-items: center;
+}
+
+#page_title {
+    font-size: 3.5rem;
+    padding-bottom: 0px;
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+}
+
+#team_wins {
+    font-size: 8vw;
+    font-family: 'Courier New', Courier, monospace;
+    color: #3bdb5b;
+    text-align: center;
+}
+
+#team_draws {
+    font-size: 8vw;
+    font-family: 'Courier New', Courier, monospace;
+    color: orange;
+    text-align: center;
+}
+
+#team_loses {
+    font-size: 8vw;
+    font-family: 'Courier New', Courier, monospace;
+    color: red;
+    text-align: center;
+}
+
+#team_points {
+    font-size: 8vw;
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    text-align: center;
+}
+
+#big_stat {
+    font-size: 4vw;
+    font-family: 'Courier New', Courier, monospace;
+    padding-top: 0px;
+    /* padding-bottom: 10%; */
+    text-align: center;
+}
+
+.stMultiSelect {
+    opacity: 0;
+    pointer-events: none;
+}
+
+#stat {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 4vw;
+    padding-top: 10%;
+    padding-bottom: 0px;
+    text-align: center;
+}
+
+#stat_wins_more {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2vw;
+    color: #3bdb5b;
+    text-align: center;
+}
+
+#stat_draws_more {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2vw;
+    color: orange;
+    text-align: center;
+}
+
+#stat_loses_more {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2vw;
+    color: red;
+    text-align: center;
+}
+
+#stat_points_more {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2vw;
+    color: blue;
+    text-align: center;
+}
+
+#stat_1 {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 4vw;
+    padding-top: 18%;
+    padding-bottom: 0px;
+    text-align: center;
+}
+
+#small_stat {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2vw;
+    padding: 0px;
+    text-align: center;
+}
+
+#stat_description {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2.5vw;
+    color: #03498a;
+    text-decoration: overline;
+    text-align: center;
+}
+
+#small_stat_description {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 1vw;
+    padding: 0px;
+    text-align: center;
+}
+
+a {
+    pointer-events: none;
+}
+
+svg[xmlns="http://www.w3.org/2000/svg"] {
+    display: none;
+    pointer-events: none;
+}
+
+#placeholder {
+    padding-top: 4.2vh;
+}
