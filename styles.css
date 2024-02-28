@@ -1,3 +1,12 @@
+header[data-testid="stHeader"] {
+	background : rgba(255, 255, 255, 0);
+}
+
+.stApp  {
+    background-image: url("https://i.ibb.co/pdyKYCV/green.png");
+    background-size: cover;
+}
+
 .block-container {
     padding-top: 0px;
     padding-left: 30px;
