@@ -3,8 +3,17 @@ header[data-testid="stHeader"] {
 }
 
 .stApp  {
-    background-image: url("https://i.ibb.co/pdyKYCV/green.png");
+    background-image: url("https://i.ibb.co/mRtsTJr/20.png");
     background-size: cover;
+}
+
+#page_title, #team_wins, #team_draws, #team_loses, #team_points, #big_stat, #stat, #stat_wins_more, #stat_draws_more, #stat_loses_more, #stat_points_more, #stat_1, #small_stat, #stat_description, #small_stat_description, #placeholder {
+    pointer-events: none;
+}
+
+button[title="View fullscreen"]{
+    pointer-events: none;
+    display: none;
 }
 
 .block-container {
